@@ -1,2 +1,2 @@
 # News-Website
-News website using API
+News website using News API in JavaScript
